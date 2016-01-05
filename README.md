@@ -1,7 +1,7 @@
 IGO-detector
 ============
 
-Auto camera capture based facial detection
+Auto camera capture based on facial detection
 
 Requirement
 - O/S : windows xp, windows 7 (32bit).
